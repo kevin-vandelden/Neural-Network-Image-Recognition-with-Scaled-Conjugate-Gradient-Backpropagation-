@@ -15,8 +15,7 @@ For this instance of image recognition, it is easily determined whether someone 
 
 
 
-![None_Fullres_Greyscale](https://user-images.githubusercontent.com/50057221/58293097-2cb0eb00-7d92-11e9-981f-57bb32074f68.jpg){
-  width: 70%;
+![None_Fullres_Greyscale](https://user-images.githubusercontent.com/50057221/58293097-2cb0eb00-7d92-11e9-981f-57bb32074f68.jpg){width= 70%;
   border: none;
   background: none;
 }
