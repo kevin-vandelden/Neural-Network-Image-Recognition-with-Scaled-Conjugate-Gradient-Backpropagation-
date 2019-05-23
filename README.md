@@ -10,3 +10,5 @@ An image is composed of a matrix of pixels, where each pixel has a distinct colo
 
 For this instance of image recognition, it is easily determined whether someone is wearing glasses without the use of color, so color information from each image can be durastically simplifed to greyscale. Where Each pixel represents an intensity scale from white to black.
 
+
+![None_Fullres_Color](https://user-images.githubusercontent.com/50057221/58292982-9e3c6980-7d91-11e9-96af-3c0873583c5e.jpg)
