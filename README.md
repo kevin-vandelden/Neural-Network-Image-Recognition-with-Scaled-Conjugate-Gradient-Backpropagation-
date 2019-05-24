@@ -2,7 +2,7 @@
 
 This is a code to show the effectiveness of Scaled Conjugate Gradient Backpropogation in an image Recognition Neural Network MATLAB code.
 
-To start, 100 photos were taken of myself wearing Nike Sunglasses, Ray Ban Wayfairs, and No Sunglasses at all. These would be the base images used in training, testing and validation in the network.
+To start, 100 photos were taken of myself wearing Nike Sunglasses, Ray Ban Wayfairs, and No Sunglasses at all. These would be the base images used in training, testing and validation in the network. Images were taken from my laptop camera, and I purposefly chose a simple backdrop to cut down on noise and make the network as accurate as possible. 
 
 To understand how the the Images are worked into the neural network, consider the following. 
 
