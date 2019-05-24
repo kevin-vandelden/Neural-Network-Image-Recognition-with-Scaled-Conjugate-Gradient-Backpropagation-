@@ -30,5 +30,12 @@ An Example  layout of a neural network is shown below
 This is the actual MATLAB output of the Network, which uses 10 hidden layers, 
 ![ViewNN](https://user-images.githubusercontent.com/50057221/58296572-3e01f380-7da2-11e9-9243-cf87fea25771.JPG)
 
+This is the output confusion matrix resulting from the network
+![confusmatrix](https://user-images.githubusercontent.com/50057221/58297004-085e0a00-7da4-11e9-8fe7-d8a4b5743a0b.jpg)
 
+The last section of the code allows for new input images for the network to be tested and outputs a guess, which is the highest classification accuracy Corresponding to the following
+  - [1;0;0] = Nike
+  - [0;1;0] = Ray Bans
+  - [0;0;1] = No Glasses
+  These results can also be interpreted to more simple "glasses" or "no glasses" result and not determine which specific sunglasses frame is being worn.
 
