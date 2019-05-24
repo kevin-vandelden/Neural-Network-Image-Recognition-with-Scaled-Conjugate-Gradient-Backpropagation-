@@ -11,6 +11,9 @@ An image is composed of a matrix of pixels, where each pixel has a distinct colo
 This is an full resolution image used of myself wearing no glasses
 ![None_Fullres_Color](https://user-images.githubusercontent.com/50057221/58292982-9e3c6980-7d91-11e9-96af-3c0873583c5e.jpg)
 
+This is a collage example of the different images being used for the network, including myself wearing Nike, Ray Bans, and no Sunglasses as well as a collection of different angles of looking.
+![collage](https://user-images.githubusercontent.com/50057221/58296326-47d72700-7da1-11e9-8ec0-e1d5ca7b29b3.jpg)
+
 For this instance of image recognition, it is easily determined whether someone is wearing glasses without the use of color, so color information from each image can be durastically simplifed to greyscale. Where Each pixel represents an intensity scale from white to black.
 
 ![None_Fullres_Greyscale](https://user-images.githubusercontent.com/50057221/58293097-2cb0eb00-7d92-11e9-981f-57bb32074f68.jpg)
