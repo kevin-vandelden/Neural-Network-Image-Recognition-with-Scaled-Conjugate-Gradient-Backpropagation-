@@ -20,3 +20,6 @@ Additionally, image recognition can be done with many fewer pixels, just as some
 
 Now that the images are in a more simple format, They must be rearranged to train on the neural network. Just as an image is a matrix of a NXM pixels of greyscale, or RGB values, that matrix can be reorganized into a 1X(MXN) Column. and this is the general input we will use for this network. In this case where each input pixel, and it's associated greyscale value, is the first "layer" of the NN
 
+![Slide1_crop](https://user-images.githubusercontent.com/50057221/58295146-b44f2780-7d9b-11e9-8abd-4849b2009c50.jpg)
+
+
