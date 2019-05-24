@@ -11,7 +11,7 @@ An image is composed of a matrix of pixels, where each pixel has a distinct colo
 This is an full resolution image used of myself wearing no glasses
 ![None_Fullres_Color](https://user-images.githubusercontent.com/50057221/58292982-9e3c6980-7d91-11e9-96af-3c0873583c5e.jpg)
 
-This is a collage example of the different images being used for the network, including myself wearing Nike, Ray Bans, and no Sunglasses as well as a collection of different angles of looking.
+This is a collage example of a small sample of images being used for the network, including myself wearing Nike, Ray Bans, and no Sunglasses as well as a collection of different angles of looking. In total there are 100 of each scenario described. 
 ![collage](https://user-images.githubusercontent.com/50057221/58296326-47d72700-7da1-11e9-8ec0-e1d5ca7b29b3.jpg)
 
 For this instance of image recognition, it is easily determined whether someone is wearing glasses without the use of color, so color information from each image can be durastically simplifed to greyscale. Where Each pixel represents an intensity scale from white to black.
@@ -23,8 +23,6 @@ Additionally, image recognition can be done with many fewer pixels, just as some
 ![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294113-510ec680-7d96-11e9-823a-55f8b3cf3b81.jpg)
 
 Now that the images are in a more simple format, They must be rearranged to enter into the neural network. Just as an image is a matrix of a NXM pixels of greyscale, or RGB values, that matrix can be reorganized into a 1X(MXN) Column. and this is the general input we will use for this network. In this case where each input pixel, and it's associated greyscale value, is the first "layer" of the NN
-
-
 
 An Example  layout of a neural network is shown below
 ![Slide1_crop](https://user-images.githubusercontent.com/50057221/58295146-b44f2780-7d9b-11e9-8abd-4849b2009c50.jpg)
