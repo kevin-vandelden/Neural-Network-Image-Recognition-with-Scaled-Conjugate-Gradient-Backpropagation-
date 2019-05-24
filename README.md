@@ -7,6 +7,7 @@ To start, 100 photos were taken of myself wearing Nike Sunglasses, Ray Ban Wayfa
 To understand how the the Images are worked into the neural network, consider the following. 
 
 An image is composed of a matrix of pixels, where each pixel has a distinct color. Those colors may be easily described as a combination of RGB (red green blue) values that make up that specific color. 
+
 This is an full resolution image used of myself wearing no glasses
 ![None_Fullres_Color](https://user-images.githubusercontent.com/50057221/58292982-9e3c6980-7d91-11e9-96af-3c0873583c5e.jpg)
 
@@ -18,9 +19,14 @@ Additionally, image recognition can be done with many fewer pixels, just as some
 
 ![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294113-510ec680-7d96-11e9-823a-55f8b3cf3b81.jpg)
 
-Now that the images are in a more simple format, They must be rearranged to train on the neural network. Just as an image is a matrix of a NXM pixels of greyscale, or RGB values, that matrix can be reorganized into a 1X(MXN) Column. and this is the general input we will use for this network. In this case where each input pixel, and it's associated greyscale value, is the first "layer" of the NN
+Now that the images are in a more simple format, They must be rearranged to enter into the neural network. Just as an image is a matrix of a NXM pixels of greyscale, or RGB values, that matrix can be reorganized into a 1X(MXN) Column. and this is the general input we will use for this network. In this case where each input pixel, and it's associated greyscale value, is the first "layer" of the NN
+
+
 
 An Example  layout of a neural network is shown below
 ![Slide1_crop](https://user-images.githubusercontent.com/50057221/58295146-b44f2780-7d9b-11e9-8abd-4849b2009c50.jpg)
+
+
+
 
 
