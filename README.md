@@ -20,5 +20,4 @@ For this instance of image recognition, it is easily determined whether someone 
 
 ![None_Scaledres_Greyscale](https://user-images.githubusercontent.com/50057221/58293125-43efd880-7d92-11e9-89f9-cb872ab6567c.jpg)
 
-![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294010-f4131080-7d95-11e9-81b2-3e7f39990c12.jpg)
-
+![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294059-21f85500-7d96-11e9-836a-ef9bcb63895b.jpg)
