@@ -27,7 +27,8 @@ Now that the images are in a more simple format, They must be rearranged to ente
 An Example  layout of a neural network is shown below
 ![Slide1_crop](https://user-images.githubusercontent.com/50057221/58295146-b44f2780-7d9b-11e9-8abd-4849b2009c50.jpg)
 
-
+This is the actual MATLAB output of the Network, which uses 10 hidden layers, 
+![ViewNN](https://user-images.githubusercontent.com/50057221/58296572-3e01f380-7da2-11e9-9243-cf87fea25771.JPG)
 
 
 
