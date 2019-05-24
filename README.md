@@ -15,9 +15,9 @@ For this instance of image recognition, it is easily determined whether someone 
 
 
 
-![None_Fullres_Greyscale](https://user-images.githubusercontent.com/50057221/58293097-2cb0eb00-7d92-11e9-981f-57bb32074f68.jpg=)
+![None_Fullres_Greyscale](https://user-images.githubusercontent.com/50057221/58293097-2cb0eb00-7d92-11e9-981f-57bb32074f68.jpg)
 
 
 ![None_Scaledres_Greyscale](https://user-images.githubusercontent.com/50057221/58293125-43efd880-7d92-11e9-89f9-cb872ab6567c.jpg)
 
-![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294059-21f85500-7d96-11e9-836a-ef9bcb63895b.jpg)
+![None_Scaledres_Greyscale_larger](https://user-images.githubusercontent.com/50057221/58294113-510ec680-7d96-11e9-823a-55f8b3cf3b81.jpg)
